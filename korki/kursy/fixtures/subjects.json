@@ -1,0 +1,42 @@
+[
+{
+  "model": "kursy.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Matematyka 4",
+    "slug": "matematyka-4"
+  }
+},
+{
+  "model": "kursy.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Matematyka 5",
+    "slug": "matematyka-5"
+  }
+},
+{
+  "model": "kursy.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Matematyka 6",
+    "slug": "matematyka-6"
+  }
+},
+{
+  "model": "kursy.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Matematyka 7",
+    "slug": "matematyka-7"
+  }
+},
+{
+  "model": "kursy.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Matematyka 8",
+    "slug": "matematyka-8"
+  }
+}
+]
